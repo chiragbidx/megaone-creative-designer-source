@@ -1,0 +1,7 @@
+/*-- Use For Custom Styling --*/
+
+/* Side Menu Logo - White Version */
+.side-menu .side-menu-logo {
+    filter: brightness(0) invert(1);
+    -webkit-filter: brightness(0) invert(1);
+}
